@@ -5,3 +5,7 @@ lxml
 requests
 pytest
 flask
+python-docx
+fpdf
+pandas
+openpyxl

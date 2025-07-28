@@ -1,0 +1,344 @@
+
+
+This site uses cookies to deliver our services and to show you relevant ads. By using our site, you acknowledge that you have read and understood our Privacy Policy. Your use of w3resource Services, is subject to these policiesMore info
+Tutorials, Exercises published recently
+Trending Exercises / Tutorial :
+Daily Coding Challenges & Projects( 25-07-2025, Friday )
+Python PCEP Certification Preparation Guide: Exam Details & Syllabus
+Learn Data Structures and Algorithms (DSA)
+Array Coding Problems: Classic & Challenging Challenges
+100 Python Projects for Beginners with solution
+Update:JavaScript Date - Exercises, Practice, Solution
+Update:JavaScript fundamental - Exercises, Practice, Solution
+Update:JavaScript basic - Exercises, Practice, Solution
+Update:C# Sharp Basic Declarations and Expressions : Exercises, Practice, Solution
+Update:HTML5 Basic (Tag and attribute) - Exercises, Practice, Solution
+Update:HTML-CSS Practical Part-I: Exercises, Practice, Solution
+Update:Swift Programming Exercises, Practice, Solution: Basic
+Update:Scala Programming String - Exercises, Practice, Solution
+Update:Scala Control Flow: Exercises, Practice, Solutions
+Update:Rust Threads and Synchronization Exercises with Solutions and Explanations
+Update:Rust Vectors Exercises with Solutions and Explanations
+Update:Rust Beginners Exercises with Solutions and Explanations
+Update:Ruby Basic: Exercises, Practice, Solution
+Update:R Programming Vector: Exercises, Practice, Solution
+Update:R Programming Basic: Exercises, Practice, Solution
+Update:PHP Challenges: Exercises, Practice, Solution
+Update:PHP String - Exercises, Practice, Solution
+Update:PHP for loop - Exercises, Practice, Solution
+Update:PHP arrays - Exercises, Practice, Solution
+Update:PHP object oriented programming: Exercises, Practice, Solution
+Update:PHP Basic Algorithm: Exercises, Practice, Solution
+Update:Java Basic Programming : Exercises, Practice, Solution
+Update:Java Array: Exercises, Practice, Solution
+Update:Pandas Exercises, Practice, and Solutions
+Update:Python Data Types: Dictionary - Exercises, Practice, Solution
+Mastering Nested Dictionary Flattening in Python
+Building a Universal Memoization Decorator with Python Dictionary Caching
+Implementing a Self-Nesting Python Dictionary with Unlimited Depth
+Sequential Python Dictionary Transformations with Functional Programming
+Python Dictionary-Powered Graph Algorithms: From Theory to Implementation
+Flexible Dictionary Merging: Implementing Custom Conflict Resolvers
+Two-Way Python Dictionary: Building a Bidirectional Map with Equal Efficiency
+LRU Cache Implementation: Optimizing Memory with Python Dictionary Tracking
+Handling Circular References in Python Dictionary Serialization and Deserialization
+Dictionary as Abstract Syntax Tree: Evaluating Complex Expressions
+PostgreSQL User and Role Management Queries
+How to create a New Role in PostgreSQL?
+How to Create a PostgreSQL User with a Password
+Grant SELECT Privileges to a User in PostgreSQL
+How to Revoke Privileges from a PostgreSQL User
+How to Change a PostgreSQL User's Password?
+Update:Python filter function exercises
+Update:Python Datetime - Exercises, Practice, Solution
+Update:Python File Input Output: Exercises, Practice, Solution
+Update:Python CSV File Reading and Writing - Exercises, Practice, Solution
+Update:Python Regular Expression - Exercises, Practice, Solution
+Update:Python Conditional Statements and loops
+Update:NumPy Basic Exercises, Practice, Solution
+Update:NumPy Array Exercises, Practice, Solution
+Update:NumPy Mathematics Exercises, Practice, Solution
+Update:NumPy Matrix Operations and Linear Algebra Exercises
+Update:NumPy Statistics: Mean, Median, Covariance Exercises
+Update:NumPy Basic: Exercises, Practice, Solution
+Update:Python Programming Puzzles - Exercises, Practice, Solution
+Update:Advanced Python Exercises and Solutions
+Comprehensive Comprehensive Exercises for Managing PostgreSQL Partitioned Tables
+Adding a New Partition to an Existing Table
+Removing a Partition from a Partitioned Table
+Attaching an Existing Table as a Partition
+Efficient Strategies for Querying PostgreSQL Partitioned Tables
+Retrieve All Data from a Partitioned Table
+Query Data from a Specific Partition
+Query Data using Partition Pruning
+Practical Techniques for Returning Result Sets in PostgreSQL
+Display all Employee Records with a PostgreSQL Function
+Retrieve Employees by Department using a Function
+Generate Regional Sales Summaries with a PostgreSQL Function
+Comprehensive Guide to Table Partitioning in PostgreSQL
+Design a Range Partition Table for Sales Data
+Set Up Year-Based Partitions for Sales Table
+Organize Orders by Region with List Partitioning
+Comprehensive Guide to writing PL/pgSQL Functions in PostgreSQL
+Create a PostgreSQL Function that returns a Fixed String
+How to Create a PostgreSQL Function to Square a Number
+Retrieve Employee Full Name using a PostgreSQL Function
+Comprehensive Guide to Using Triggers with Stored Procedures in PostgreSQL
+Implement an Audit Log Trigger for DML Operations
+Update Record Timestamps Automatically with a Trigger
+Propagate Parent Key Changes via Cascade Trigger
+Practical Guide to Updating Views in PostgreSQL
+Update Employee Data Through a Simple View
+Update Records via View with Enforced Conditions
+Perform Complex View Updates with INSTEAD OF Trigger
+Optimizing Data with PostgreSQL Materialized Views
+Build a Materialized Snapshot of Employee Data
+Store Aggregated Sales Totals for Quick Reporting
+Combine Order and Customer Data for Efficient Reporting
+Master PostgreSQL Creating and managing views
+Simplify Data Access with a Basic Employee View
+Merge Employee and Department Data in a Single View
+Display Only Sales Employees via a Dedicated View
+Summarize Employee Data by Department in a View
+Combine First and Last Names into a Computed Full Name
+Master PostgreSQL Transactions with BEGIN, COMMIT, and ROLLBACK
+Execute a Secure Salary Update Operation
+Undo Updates Using Transaction Rollback
+Execute Multiple DML Operations Atomically
+Learn PostgreSQL Isolation Levels for Secure Transactions
+Execute Transactions Using READ COMMITTED Level
+Achieve Consistent Data with REPEATABLE READ
+Maximize Data Integrity with SERIALIZABLE Isolation
+Master PostgreSQL Locking and Deadlock Prevention Techniques
+Securely Lock a Row to Prevent Concurrent Updates
+Obtain an Exclusive Lock on the Entire Table
+Prevent Delays by Using NOWAIT in Row Locking
+Master Index Creation and Management in PostgreSQL
+Optimize Lookups with a Basic Index on last_name
+Ensure Unique Email Entries with a Unique Index
+Enhance Query Performance with a Composite Index
+Unlock Performance Insights with EXPLAIN and ANALYZE
+Analyze a Simple SELECT Query Execution Plan
+Measure Real-Time Performance of a SELECT Query
+Review Execution Plan for Table Joins
+Hands-on PostgreSQL Indexing Techniques and Exercises
+Enhance Lookup Speed on last_name Column
+Boost Salary Query Performance with a B-tree Index
+Optimize Full Name Searches with a Composite Index
+Hands-on MySQL Spatial Data Exercises and Solutions
+Create a Table with a Spatial Column
+Insert a Spatial Data Point Using ST_GeomFromText
+Calculate Distance between Two Points
+Check if a Point is Within a Polygon
+Practical MySQL Backup and Restore Techniques
+Full Database Backup using mysqldump
+Backup a Specific Table using mysqldump
+Backup all Databases using mysqldump
+Backup Database with Compression
+Restore a Full Database from Backup
+MySQL Security and User Management Exercises with Solutions
+Advanced Full-Text Search Techniques for MySQL Mastery
+Basic Full-Text Search on a Single Column
+Full-Text Search on Multiple Columns
+Full-Text Search with Relevance Ranking
+Full-Text Search Using Query Expansion
+Hands-on MySQL JSON and NoSQL Features Exercises
+Query JSON Data with JSON_EXTRACT
+Update a JSON Document with JSON_SET
+Validate JSON Data using JSON_VALID
+Practical Exercises for writing SQL Queries Across Multiple Databases
+Writing a Query that Works in Both MySQL and PostgreSQL
+Comparing how Window Functions are Implemented in SQL Server and PostgreSQL
+Query with LIMIT in MySQL and FETCH FIRST in SQL Server
+Handling String Concatenation Across Databases
+Using Date Functions Across Databases
+Practical SQL Exercises for Database Backup and Recovery
+Creating a Full Backup of a Database
+Restoring a Database from a Full Backup
+Restoring a Database Using Full and Differential Backups
+Creating a Transaction Log Backup
+Mastering Temporal Tables and Versioning Through Practical SQL Exercises
+Creating a Temporal Table to Track Historical Data
+Querying Current Data from a Temporal Table
+Retrieving Historical Data from a Temporal Table
+Retrieving Data as of a Specific Point in Time
+Retrieving all Changes Between Two Points in Time
+Practical Exercises for MySQL Replication and Clustering
+Configuring a Slave Server in MySQL Replication
+Master Server Configuration for MySQL Replication
+Promoting a Slave to Master in MySQL
+Monitoring Replication Lag in MySQL
+Setting Up Multi-Master Replication
+Practical Exercises for MySQL Query Optimization
+Optimizing MySQL Queries with EXPLAIN for Order Date Filtering
+Boosting Query Speed by Creating Indexes in MySQL
+Efficient Data Retrieval using Indexed Columns in MySQL
+Streamlining MySQL Databases by Removing Unnecessary Indexes
+Improving Query Efficiency with Composite Indexes in MySQL
+Practical Exercises to Master MySQL Stored Procedures and Triggers
+Create a MySQL Stored Procedure for Employee insertion
+How to Call a Stored Procedure for Employee Insertion
+Create a MySQL Stored Procedure to Modify Employee Salary
+How to Call a Stored Procedure for Salary Update
+Create a MySQL Stored Procedure for Employee Deletion
+Practical Exercises to Master MySQL Transactions and Concurrency
+How to Start a MySQL Transaction and Commit Changes
+Using MySQL ROLLBACK to Handle Transaction Errors
+Setting MySQL Isolation Level to READ COMMITTED
+Using SERIALIZABLE Isolation Level in MySQL
+Managing MySQL Deadlocks with Rollback and Retry
+Grok 3 AI: Revolutionizing Industries with Advanced AI Capabilities
+Nugget AI Agent: Transforming Food Discovery and Delivery with AI
+Practical Exercises to Master MySQL Window Functions and CTEs
+MySQL Query to Rank Employees by Salary
+MySQL Query to Compute Running Total of Sales
+MySQL Query to Rank Employees by Salary in Each Department
+MySQL Query for 3-Month Moving Average of Sales
+MySQL Query to Find Salary difference from Previous Row
+SQL - Practical Security and Access Control Exercises
+How to Grant SELECT Permission on a Table in SQL?
+How to Revoke INSERT Permission on a Table in SQL?
+How to Grant EXECUTE Permission on a Stored Procedure in SQL?
+How to Implement Row-Level Security (RLS) in SQL
+How to Implement Column-Level Security (CLS) in SQL
+SQL Error Handling and Debugging with Practical Exercises
+Mastering Error Handling in SQL with TRY...CATCH
+How to Debug SQL Queries Using Execution Plans
+Logging SQL Errors for Debugging and Analysis
+Troubleshooting SQL Bottlenecks with Query Profiling
+Effective Deadlock Handling in SQL Transactions
+Database Design and Normalization Exercises with Solutions
+Convert a Table into First Normal Form (1NF)
+Normalize a Table to Second Normal Form (2NF)
+Achieve Third Normal Form (3NF) by Removing Transitive Dependencies
+Convert a Table into Boyce-Codd Normal Form (BCNF)
+Detect and Eliminate Update Anomalies in SQL
+Optimize SQL Performance with Query Tuning Exercises with Solutions
+Improve SQL Query Performance by Eliminating Unnecessary Joins
+Boost Query Performance with Effective Indexing
+Understand and Improve SQL Performance with Execution Plans
+Improve Query Performance by Selecting Only Required Columns
+Enhance Query Speed Using Covering Indexes
+Master Advanced SQL with Practical Exercises and Solutions
+Rank Employees using SQL Window Functions ROW_NUMBER RANK
+Using Recursive CTE to Compute Factorial in SQL
+Transforming Sales Data with SQL PIVOT Operator
+Reversing Data Pivoting with SQL UNPIVOT Operator
+Extract JSON Fields in SQL Using JSON_VALUE and JSON_QUERY
+Using NTILE() for Data Segmentation in SQL
+Aggregating Departmental Salaries with Non-Recursive CTE
+Querying XML Data in SQL Using XPath
+Using SQL PIVOT and UNPIVOT for Data Transformation
+Handling Nested JSON Arrays in SQL with OPENJSON
+Stored Procedures and Functions Exercises with Solutions and Explanations
+Creating a Parameterized Stored Procedure in SQL
+Creating a Scalar User-Defined Function in SQL
+Creating a Trigger to Log Table Updates in SQL
+Creating a Table-Valued Function in SQL
+Using Output Parameters in a Stored Procedure
+SQL Transactions and Concurrency Control Exercises with Solutions and Explanations
+Understanding the READ COMMITTED Isolation Level in SQL
+Understanding the SERIALIZABLE Isolation Level in SQL
+Handling Transaction Rollbacks in SQL
+Demonstrating the REPEATABLE READ Isolation Level in SQL
+Implementing Savepoints for Partial Rollback in SQL Transactions
+SQL Data Manipulation Language (DML) Exercises
+How to Insert a Single Record into a SQL Table?
+How to Insert Multiple Records into a SQL Table
+How to Update a Single Record in SQL Based on a Condition?
+How to Update Multiple Records in SQL Based on a Condition
+How to Delete a Single Record from a SQL Table Based on Condition
+SQL Data Definition Language (DDL) Exercises with Solutions
+How to Create a Table in SQL with Constraints and Best Practices
+How to add a new Column to an Existing SQL Table
+How to Modify a Column's Data Type in SQL
+How to Drop a Column from an SQL Table
+How to Add a Unique Constraint to an SQL Column
+Mastering NumPy Factorials: A Comprehensive Guide
+Mastering NumPy Digitization: A Complete Guide
+NumPy np.exp: Usage, Applications, and Performance
+How Large Language Models (LLMs) work Explained
+DeepSeek-V3: Specialized AI for Real-World Challenges
+Understanding Large Language Models and their impact
+Power and Potential of AI Language Models
+Exploring the impact and Potential of Open LLMs
+The Evolution of GPT-1: Pioneering AI Language Model
+Natural Language Processing and its Impact
+How BERT revolutionized Natural Language Processing?
+T5 Model: Revolutionizing NLP with Text-to-Text AI
+Understanding RoBERTa: Enhancements and Applications
+Understanding ALBERT: Optimized BERT for NLP Efficiency
+Understanding DistilBERT: Speed and Efficiency in NLP
+Qwen 2.5-Max: Capabilities and Industry Applications
+Mastering NumPy Interpolation: Methods and Applications
+Insights into Modern Data Centers
+Comprehensive insights into Modern Data Centers
+Unlocking the Potential of Cloud Data Centers
+Understanding Data Center Technology
+Exploring the Role of FFXIV Data Centers
+Becoming a Data Center Technician
+Unlocking the Potential of the IPEDS Data Center
+Unlocking the Value of Data Center Knowledge
+Resources and Trends with Data Center Dynamics
+Challenges and Career insights for Data Center Technicians
+Google Data Centers: Applications and Innovations
+Unlocking the Potential of Bing AI
+Optimize your System with ASUS AI Suite
+Understanding AI Apps: A Comprehensive Guide
+Canva AI: Revolutionizing Design for everyone
+Exploring Blackbox AI: A Beginner's Guide
+Transform your images with background remover AI
+Understanding Galaxy AI: The Future of Smart Technology
+Revolutionizing the Future with Artificial Intelligence
+Benefits and uses of Chat AI Worldwide
+ChatGPT: Revolutionizing Conversations with AI
+AI Copilot: Your Assistant for Productivity
+How Apple AI is Revolutionizing Technology and user experience?
+Google AI: Transforming the future with Artificial Intelligence
+Exploring the Power and Potential of Generative AI
+Discover the Potential of AI Generators for Content Creation
+Impact and uses of Character AI Technology
+Topaz AI: Revolutionizing image and video enhancement
+AI Detector: Identifying AI-Generated content
+Benefits and Applications of AI Suites
+Complete Guide to Agile Methodologies and Best Practices
+What is the Agile Approach? A Beginner's Guide
+A Beginner's Guide to understanding Agile
+Understanding the Principles of Agile for Beginners
+Understanding the Principles of Agile for Beginners
+Understanding Agile Frameworks: A Beginner's Guide
+A Beginner's Guide to Agile Requirements
+A Beginner's Guide to Agile Software Methodology
+A Beginner's Guide to Agile Software Testing
+A Beginner's Guide to Agile SDLC
+Comprehensive Guide to the Agile Development Life Cycle
+JavaScript Event Delegation for Dynamic List items
+JavaScript: Prevent Form Submission and Log Inputs
+Event Bubbling and stopPropagation in JavaScript
+Event Capturing in JavaScript with Practical Examples
+API Calls with Debounced Input Events in JavaScript
+Creating a Persistent Counter with JavaScript and LocalStorage
+Build a Shopping Cart using JavaScript and SessionStorage
+Fetch API and Error Handling in JavaScript
+Geolocation API in JavaScript for user Location Access
+JavaScript Clipboard API: Copy Text from Input Box
+Desktop Notifications using JavaScript Web Notifications API
+Numerical Digits: Basics, Types, and Programming Examples
+Parameters in Programming: A Beginner's Guide
+Subroutines in Programming: A Beginner's Guide
+A Beginner's Guide to Programming Errors
+Understanding Conditional Statements in Programming
+Understanding Instances in Programming
+Mock Objects in Programming: A Beginner's Guide
+What are Reserved words in Programming?
+What are Anonymous Functions in Programming?
+A Complete Guide to using Checks in Programming
+A Beginner's Guide to Understanding and Using GitHub
+Understanding Git: Features and Basic Commands
+Query Language Basics: Understanding how to interact with Databases
+Threads in Programming: Simplifying Multitasking
+JavaScript Promises with setTimeout Examples
+Efficiently Combine Sync and Async tasks with Promise.all
+Create Debounced Functions in JavaScript with Promises
+Using Async/Await with Dynamic imports in JavaScript
+Promise.race in JavaScript with Practical Examples
