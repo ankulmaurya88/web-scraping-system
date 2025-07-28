@@ -52,6 +52,7 @@ def main():
     else:
         print("[+] Using BeautifulSoup...")
         html = requests.get(url).text
+        print(html)
         data = parse_with_bs(html)
 
     # Save data to all formats (Word, Excel, PDF)

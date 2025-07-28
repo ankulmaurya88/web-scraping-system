@@ -112,6 +112,27 @@
 #     process.start()
 
 
+# import os
+# from scrapy.crawler import CrawlerProcess
+# from scrapy.utils.project import get_project_settings
+# from scrapy_crawler.spiders.hybrid import HybridSpider
+
+# def run_scrapy_spider(url):
+#     output_dir = "based_output"
+#     os.makedirs(output_dir, exist_ok=True)
+    
+#     output_file = os.path.join(output_dir, "output.json")
+
+#     settings = get_project_settings()
+#     settings.set("FEEDS", {
+#         output_file: {"format": "json", "overwrite": True}
+#     })
+
+#     process = CrawlerProcess(settings)
+#     process.crawl(HybridSpider, start_url=url)
+#     process.start()
+
+
 import os
 from scrapy.crawler import CrawlerProcess
 from scrapy.utils.project import get_project_settings
@@ -120,7 +141,7 @@ from scrapy_crawler.spiders.hybrid import HybridSpider
 def run_scrapy_spider(url):
     output_dir = "based_output"
     os.makedirs(output_dir, exist_ok=True)
-    
+
     output_file = os.path.join(output_dir, "output.json")
 
     settings = get_project_settings()
@@ -129,5 +150,5 @@ def run_scrapy_spider(url):
     })
 
     process = CrawlerProcess(settings)
-    process.crawl(HybridSpider, start_url=url)
+    process.crawl(HybridSpider, url=url)
     process.start()

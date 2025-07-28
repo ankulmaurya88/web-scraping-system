@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hybrid Scraper</title>
+    <style>
+        body { font-family: Arial; padding: 40px; background: #f4f4f4; }
+        input, button { padding: 10px; font-size: 16px; }
+        textarea { width: 100%; height: 300px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h2>Hybrid Web Scraper</h2>
+    <form method="post">
+        <input type="text" name="url" placeholder="Enter website URL" required style="width: 60%;">
+        <button type="submit">Scrape</button>
+    </form>
+
+    {% if output %}
+    <h3>Output:</h3>
+    <textarea readonly>{{ output }}</textarea>
+    {% endif %}
+</body>
+</html>
