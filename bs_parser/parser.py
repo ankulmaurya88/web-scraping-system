@@ -135,7 +135,7 @@ def parse_using_heuristics(soup: BeautifulSoup):
         result['full_text'] = all_text
 
     # return dict(result)
-    print(result)
+    # print(result)
     return result
 
 

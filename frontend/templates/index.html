@@ -1,23 +1,35 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Hybrid Scraper</title>
-    <style>
-        body { font-family: Arial; padding: 40px; background: #f4f4f4; }
-        input, button { padding: 10px; font-size: 16px; }
-        textarea { width: 100%; height: 300px; margin-top: 20px; }
-    </style>
+    <meta charset="UTF-8">
+    <title>Web Scraper</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <!-- templates/index.html -->
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}?v={{ config['VERSION'] }}">
+
 </head>
 <body>
-    <h2>Hybrid Web Scraper</h2>
-    <form method="post">
-        <input type="text" name="url" placeholder="Enter website URL" required style="width: 60%;">
-        <button type="submit">Scrape</button>
-    </form>
+    <div class="container">
+        <h1>🕷️ Simple Web Scraper</h1>
+        {% with messages = get_flashed_messages(with_categories=true) %}
+          {% for category, message in messages %}
+            <div class="alert {{ category }}">{{ message }}</div>
+          {% endfor %}
+        {% endwith %}
+        <form method="post">
+    <input type="text" name="url" placeholder="Enter website URL" autocomplete="off" required>
+    <button type="submit">Scrape</button>
+</form>
 
-    {% if output %}
-    <h3>Output:</h3>
-    <textarea readonly>{{ output }}</textarea>
-    {% endif %}
+        {% if filename %}
+    <div class="result">
+        ✅ <a href="{{ url_for('download_file', foldername=filename) }}">Download Output</a>
+    </div>
+{% endif %}
+        
+    </div>
+    <div class="footer">
+            <p>Made with ❤️ by <a href="https://github.com/ankulmaurya88/web-scraping-system">Ankul </a></p>
+        </div>
 </body>
 </html>

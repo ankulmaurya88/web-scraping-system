@@ -1,0 +1,129 @@
+SQLTutorial
+Tutorials
+Exercises
+Certificates
+All Our Services
+SQLTutorial
+SQLDatabase
+SQLReferences
+SQLExamples
+Learn SQL
+Examples in Each Chapter
+SQL Exercises
+Exercise?What is this?Test your skills by answering a few questions about the topics of this page
+SQL Examples
+SQL Quiz Test
+Track Your Progress
+SQL References
+SQL Data Types
+Kickstart your career
+Contact Sales
+Report Error
+HTML and CSS
+Data Analytics
+Web Building
+JavaScript
+Web Building
+Backend
+Data Analytics
+Web Building
+HTML and CSS
+Data Analytics
+JavaScript
+Backend
+Data Analytics
+HTML and CSS
+Data Analytics
+Programs
+JavaScript
+Programs
+Programs
+Backend
+Data Analytics
+ExampleGet your own SQL Server
+Free Tutorials
+References
+Create a Website
+Exercises
+Quizzes
+Get Certified
+Log in / Sign Up
+My Learning
+Upgrade
+Where To Start
+Code Editor (Try it)
+Videos
+Templates
+Web Hosting
+Create a Server
+How To's
+CSS Framework
+Browser Statistics
+Typing Speed
+Color Picker
+Code Game
+Newsletter
+For Teachers
+For Businesses
+Contact Us
+COLOR PICKER
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+Create a free W3Schools account and get access to more features and learning materials:
+
+W3Schools offers a wide range of services and products for
+                beginners and professionals,helping millions of people everyday to learn and master new
+                skills.
+Enjoy our free tutorials like millions of other internet
+                      users since 1999
+Explore our selection of references covering all popular
+                      coding languages
+Create your own website withW3Schools Spaces- no setup required
+Test your skills with different exercises
+Test yourself with multiple choice questions
+Create afreeW3Schools Account to Improve Your Learning Experience
+Track your learning progress at W3Schools and collect
+                      rewards
+Become a PLUS user and unlock powerful features (ad-free,
+                      hosting, support,..)
+Not sure where you want to start? Follow our guided path
+With our online code editor, you can edit code and view
+                      the result in your browser
+Learn the basics of HTML in a fun and engaging video
+                      tutorial
+We have created a bunch of responsive website templates
+                      you can use - for free!
+Host your own website, and share it to the world withW3Schools Spaces
+Create your own server using Python, PHP, React.js,
+                      Node.js, Java, C#, etc.
+Large collection of code snippets for HTML, CSS and
+                      JavaScript
+Build fast and responsive sites using our freeW3.CSSframework
+Read long term trends of browser usage
+Use our color picker to find different RGB, HEX and HSL
+                      colors.
+W3Schools Coding Game! Help the lynx collect pine cones
+Join our newsletter and get access to exclusive content
+                      every month
+Contact us about W3Schools Academy for educational
+                      institutions
+Contact us about W3Schools Academy for your organization
+About sales:sales@w3schools.comAbout errors:help@w3schools.com
+SQL is a standard language for storing, manipulating and retrieving data 
+in databases.
+Our SQL tutorial will teach you how to use SQL in:
+MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres, and other database systems.
+With our online SQL editor, you can edit the SQL statements, and click on a button to view the result.
+Click on the "Try it Yourself" button to see how it works.
+Many chapters in this tutorial end with an exercise where you can check your level of knowledge.
+Which SQL statement is used to select all records from a table named 'Customers'?
+Learn by examples! This tutorial supplements all explanations with clarifying examples.
+Test your SQL skills at W3Schools!
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+At W3Schools you will find a complete reference for keywords and functions:
+Data types and ranges for Microsoft Access, MySQL and SQL Server.
+Get certified by completingtheSQLcourse
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
