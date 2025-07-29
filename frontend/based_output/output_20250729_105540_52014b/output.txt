@@ -1,0 +1,41 @@
+Difference between Methods and Functions in JavaScript
+Log in
+Create Account
+JavaScript Basics
+JS Variables & Datatypes
+JS Operators
+JS Statements
+JS Loops
+JS Perfomance & Debugging
+JS Object
+JS Function
+JS Array
+JS String
+JS Numbers
+JS Math
+JS Map
+JS Set
+JS Objects
+JS Advance
+JavaScript Exercises
+JavaScript Functions
+JavaScript Methods
+Difference Between Function and Method
+Thank You!
+What kind of Experience do you want to share?
+Syntax
+Work Around:
+Syntax:
+Work Around:
+
+Grasping the difference between methods and functions in JavaScript is essential for developers at all levels. While both are fundamental to writing effective code, they serve different purposes and are used in various contexts. This article breaks down the key distinctions between methods and functions in JavaScript, explaining their unique characteristics, definitions, and specific uses. By understanding these differences, you can improve your JavaScript programming skills and create more robust, maintainable code.
+A function is a block of code written to perform some specific set of tasks. We can define a function using the function keyword, followed by a name and optional parameters. The body of the function is enclosed in curly braces{}.
+Example:Below is the function to add two numbers.
+AJavaScript Methodis a property of an object that contains a function definition. Methods are functions stored as object properties. Object method can be accessed with the following syntax:
+Example:The following example shows the method that is invoked with an object called employee.
+Note: Object methods must be called with parentheses to invoke them. The this keyword in a method refers to the object that owns the method, and it must always be written in lowercase.
+function functionName(parameters) {// Content}
+object = {methodName: function() {// Content}};
+We can access object method by the following the syntax:
+Already have an account ?Log in
+*Please enter your email address or userHandle.

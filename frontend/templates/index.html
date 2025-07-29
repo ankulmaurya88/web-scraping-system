@@ -11,21 +11,31 @@
 <body>
     <div class="container">
         <h1>🕷️ Simple Web Scraper</h1>
-        {% with messages = get_flashed_messages(with_categories=true) %}
+        <!-- {% with messages = get_flashed_messages(with_categories=true) %}
           {% for category, message in messages %}
             <div class="alert {{ category }}">{{ message }}</div>
           {% endfor %}
-        {% endwith %}
-        <form method="post">
+        {% endwith %} -->
+        <form method="post"  autocomplete="off"  >
     <input type="text" name="url" placeholder="Enter website URL" autocomplete="off" required>
     <button type="submit">Scrape</button>
 </form>
 
-        {% if filename %}
+        <!-- {% if filename %}
     <div class="result">
         ✅ <a href="{{ url_for('download_file', foldername=filename) }}">Download Output</a>
     </div>
+{% endif %} -->
+
+{% if filename %}
+    <div class="result">
+        ✅ Scraping completed. Download files from: <strong>{{ filename }}</strong><br><br>
+        📄 <a href="{{ url_for('download_file', foldername=filename, filename='output.docx') }}">DOCX</a> |
+        📄 <a href="{{ url_for('download_file', foldername=filename, filename='output.csv') }}">CSV</a> |
+        📄 <a href="{{ url_for('download_file', foldername=filename, filename='output.txt') }}">Text</a>
+    </div>
 {% endif %}
+
         
     </div>
     <div class="footer">

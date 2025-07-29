@@ -1,0 +1,26 @@
+Python 3.13.5 documentation
+Download
+Docs by version
+Other resources
+Navigation
+Download
+Docs by version
+Other resources
+Navigation
+
+Welcome! This is the official documentation for Python 3.13.5.
+What's new in Python 3.13?Orall "What's new" documents since Python 2.0
+TutorialStart here: a tour of Python's syntax and features
+Library referenceStandard library and builtins
+Language referenceSyntax and language elements
+Python setup and usageHow to install, configure, and use Python
+Python HOWTOsIn-depth topic manuals
+Installing Python modulesThird-party modules and PyPI.org
+Distributing Python modulesPublishing modules for use by other people
+Extending and embeddingFor C/C++ programmers
+FAQsFrequently asked questions (with answers!)
+DeprecationsDeprecated functionality
+Global module indexAll modules and libraries
+General indexAll functions, classes, and terms
+Search pageSearch this documentation
+Complete table of contentsLists all sections and subsections
